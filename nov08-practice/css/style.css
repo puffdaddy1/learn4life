@@ -1,0 +1,16 @@
+article{
+float: left;
+width: 55%;
+}
+aside{
+  float: right;
+  width: 25%;
+}
+footer{
+  background-color: rgb(110, 175, 169);
+}
+main::after{
+  content: '';
+  display: block;
+  clear: both;
+}

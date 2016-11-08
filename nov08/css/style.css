@@ -1,0 +1,14 @@
+footer {
+ background-color: magenta;
+}
+li:nth-child(1){
+ float: left;
+}
+li:nth-child(2){
+  float: right;
+}
+ul::after {
+  content: '';
+  display: block;
+  clear: both;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<article>
+<img src="" alt="">
+  <h1>
+  the headline of the article
+
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi necessitatibus suscipit officiis dolore totam, quam repellat est alias minus obcaecati modi. Ipsam laboriosam, eos alias dolorum libero sequi voluptatem. Reiciendis.
+</p>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque qui ipsum, commodi vel veniam? Iure dicta vero sit. Deleniti ea sapiente amet dolores voluptatem distinctio repellendus sint a, rerum perferendis.
+</p>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel non, voluptatem aut earum, nobis numquam magni fugiat culpa quos accusamus vitae fuga rem dignissimos, molestiae reprehenderit. Est, laboriosam, laudantium!
+</p>
+
+
+
+  </h1>
+</article>
+<main>
+<aside>
+
+  <h2>
+   the title for the aside
+  </h2>
+  <ul>
+    <li>
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui ab, consequuntur voluptatem natus nobis hic accusamus reprehenderit consectetur labore praesentium doloribus eligendi sapiente iste culpa ea cum ipsa nihil alias.
+    </li>
+    <li>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt dolor labore aliquam sapiente earum aliquid aspernatur modi at facilis, sunt, aut quod quos id temporibus possimus voluptate, eveniet nemo laboriosam!
+    </li>
+    <li>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae libero cum aperiam, debitis, doloremque quod? Voluptatem ratione rem cum aut at commodi nobis debitis, ducimus reprehenderit dolor blanditiis, consequatur id!
+    </li>
+  </ul>
+</aside>
+</main>
+<footer>
+ Copyright-2016. All rights reserved
+</footer>
+
+
+</body>
+</html>
