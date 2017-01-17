@@ -1,0 +1,29 @@
+section > div {
+  widows: 50%;
+  float: left;
+}
+section img {
+  width: 100%;
+}
+section > div:first-child {
+  width: 65%;
+  position: relative;
+}
+section > div:last-child {
+  width: 35%;
+}
+section {
+  background-color: blue;
+}
+section::after {
+  clear::both;
+  display::block;
+  content: '';
+}
+section > div:first-child h2 {
+  position: absolute;
+  bottom: : 0;
+}
+section > div:first-child p {
+  p
+}
