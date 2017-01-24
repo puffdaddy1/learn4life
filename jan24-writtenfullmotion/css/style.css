@@ -1,0 +1,19 @@
+div {
+  width: 50%;
+  text-align: center;
+  border-style: solid;
+  margin: auto;
+}
+
+div img {
+  width: 100%;
+}
+
+div a {
+  display: block;
+  border-style: solid;
+  border-color: darkred;
+  width: 75%;
+  margin-bottom: 10px;
+  margin-left: 70px;
+}
