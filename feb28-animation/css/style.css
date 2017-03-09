@@ -1,0 +1,13 @@
+@keyframes myanimation {
+  0% {
+    transform: rotate(0deg);}
+100% {
+  transform: rotate(360deg);}
+}
+figure:hover img {
+  border-radius: 100%;
+
+}
+figure img {
+  transition: border-radius 500ms;
+}
